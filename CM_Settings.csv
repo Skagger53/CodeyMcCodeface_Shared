@@ -1,0 +1,18 @@
+pdf_default_dir,C:/Users/skaha/My Drive/Personal/Coding/Python/CodeyMcCodeface/Example PDFs
+template_file_path,CM_TEMPLATE_CM_Codes.xlsx
+excel_file_path,CM_Codes.xlsx
+excel_file_sheet_name,Codes Import
+excel_data_first_row,2
+window_x,1200
+window_y,800
+pcc_url,https://www24.pointclickcare.com/home/login.jsp
+new_diag_button_x,/html/body/table[7]/tbody/tr/td[1]/table/tbody/tr/td[2]/input
+code_field_x,/html/body/div[3]/form/table[2]/tbody/tr[1]/td[2]/input
+code_desc_x,/html/body/div[3]/form/table[2]/tbody/tr[2]/td[2]/input
+rank_x,/html/body/div[3]/form/table[2]/tbody/tr[5]/td[2]/select
+clasif_x,/html/body/div[3]/form/table[2]/tbody/tr[6]/td[2]/select
+comm_x,/html/body/div[3]/form/table[2]/tbody/tr[7]/td[2]/textarea
+confid_x,/html/body/div[3]/form/table[2]/tbody/tr[8]/td[2]/input
+log_file_name,CM_error_log.csv
+admis_date_id,adminDate
+FID,pccFacLink
